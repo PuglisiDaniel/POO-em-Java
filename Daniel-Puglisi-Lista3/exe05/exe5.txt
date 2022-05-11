@@ -1,0 +1,10 @@
+No código temos a construção de uma matriz com * e . sendo os * colocados em situações especificas
+e os pontos quando nenhuma dessas condições é verdadeira, assim temos em nosso print/saida 
+a matriz abaixo:
+
+******
+.*....
+..*...
+...*..
+....*.
+******

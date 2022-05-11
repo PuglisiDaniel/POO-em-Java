@@ -1,0 +1,3 @@
+teste 3
+outraPalavra 10
+umaPalavra 1

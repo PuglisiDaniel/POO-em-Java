@@ -1,0 +1,4 @@
+Uma classe abstrata, como o próprio nome ja diz, não é algo "concreto",
+serve como uma espécie de modelo para outras classes. Logo a mesma não
+deve ser instanciada já que servira apenas como modelo(ou contrato) que devera ser
+escrito para as seguintes classes que a estendem.

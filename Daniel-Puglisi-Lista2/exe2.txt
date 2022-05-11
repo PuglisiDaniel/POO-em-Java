@@ -1,0 +1,3 @@
+Ela deixaria de ser uma classe abstrata, deste forma os metodos abstratos
+declarados, teriam de ser refeitos e futuramente subscritos nas classes que
+extende esta classe posteriormente.

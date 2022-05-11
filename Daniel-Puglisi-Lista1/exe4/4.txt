@@ -1,0 +1,2 @@
+Quando imprimimos System.out.println(g) ou System.out.println(r)
+temos na tela a indicação de herança, nome da classe e local de armazenamento
